@@ -1,2 +1,4 @@
 # RT-PCR-Pooling-Methods
-Analysis of pre-existing RT-PCR pooling methods
+An analysis of pre-existing methods of pooling RT-PCR tests. Comparing their efficiencies and costs.
+
+Done under the supervisions of Prof. Prasad Krishnan in Spring 2020.
